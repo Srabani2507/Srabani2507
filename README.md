@@ -52,7 +52,7 @@
   <br>
 
 
-  ![Snake animation](https://raw.githubusercontent.com/Srabani5877/Srabani5877/output/github-contribution-grid-snake-blue.svg)
+  ![Snake animation](https://raw.githubusercontent.com/Srabani2507/Srabani2507/output/github-contribution-grid-snake-blue.svg)
   
   
   <br/><br/><br/>
@@ -63,11 +63,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<a href="https://github.com/Srabani5877">
-<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Srabani5877&count_private=true&theme=shadow-blue&sideLabels=3396D3&border=3396D3&fire=3396D3&sideNums=EBEADB&dates=E2EBD8&currStreakNum=3396D3&currStreakLabel=3396D3&stroke=00B8EB&border_radius=10" alt="streak stats"/> 
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=Srabani5877&theme=shadow_red&border_color=3396D3&text_color=EBEADB&ring_color=3396D3&custom_title=Srabani5877's+Github+Statistics&icon_color=3396D3&title_color=3396D3&show_icons=true&count_private=true&rank_icon=github&border_radius=10" alt="readme stats" />
+<a href="https://github.com/Srabani2507">
+<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Srabani2507&count_private=true&theme=shadow-blue&sideLabels=3396D3&border=3396D3&fire=3396D3&sideNums=EBEADB&dates=E2EBD8&currStreakNum=3396D3&currStreakLabel=3396D3&stroke=00B8EB&border_radius=10" alt="streak stats"/> 
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=Srabani2507&theme=shadow_red&border_color=3396D3&text_color=EBEADB&ring_color=3396D3&custom_title=Srabani5877's+Github+Statistics&icon_color=3396D3&title_color=3396D3&show_icons=true&count_private=true&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srabani5877&langs_count=8&layout=compact&theme=shadow_blue&title_color=3396D3&custom_title=Srabani5877's+Languages&text_color=EBEADB&card_width=400&border_color=3396D3&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srabani2507&langs_count=8&layout=compact&theme=shadow_blue&title_color=3396D3&custom_title=Srabani2507's+Languages&text_color=EBEADB&card_width=400&border_color=3396D3&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>

@@ -19,11 +19,11 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      # generate snake animation from Srabani5877's contribution graph
+      # generate snake animation from Srabani2507's contribution graph
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Srabani5877
+          github_user_name: Srabani2507
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
